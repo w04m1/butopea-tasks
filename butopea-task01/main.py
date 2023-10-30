@@ -136,7 +136,6 @@ class XMLGenerator:
         # Create the product element and add the required fields with tags
         # according to the Google Merchant Center documentation
         product_element = ET.SubElement(self.channel, "item")
-        # probably should've used dicts or dataclasses for this, but this already looks
         ET.SubElement(product_element, "g:id").text = str(product.id)
         ET.SubElement(product_element, "g:title").text = product_data.name
         ET.SubElement(
