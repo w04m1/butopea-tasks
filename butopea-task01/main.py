@@ -1,10 +1,34 @@
 import os
 import sqlite3
-from typing import List
+from typing import List, NamedTuple, Union
 import xml.etree.ElementTree as ET
 
-db_name = "data.sqlite"
-db_path = os.path.join(os.path.dirname(__file__), db_name)
+DB_NAME = "data.sqlite"
+DB_PATH = os.path.join(os.path.dirname(__file__), DB_NAME)
+
+BASE_URL = "https://butopea.com/"
+
+
+# I do know about dataclasses and collections.namedtuple, but I've decided to
+# use NamedTuple for the sake of consistency.
+class Product(NamedTuple):
+    id: int
+    image_link: str
+    price: float
+    manufacturer_id: int
+
+
+class ProductData(NamedTuple):
+    name: str
+    description: str
+
+
+class Manufacturer(NamedTuple):
+    name: str
+
+
+class Image(NamedTuple):
+    image_link: str
 
 
 # I was not sure if you'd rather want me to do single SQL query with JOINs
@@ -17,7 +41,9 @@ class Db:
         self.conn = sqlite3.connect(db_name)
         self.cursor = self.conn.cursor()
 
-    def fetch_products(self, only_active: bool = True) -> List[sqlite3.Row]:
+    def fetch_products(
+        self, only_active: bool = True
+    ) -> Union[List[Product], List]:
         """
         Fetch all products from the database. By default only active products
         are returned.
@@ -26,31 +52,57 @@ class Db:
             self.cursor.execute("SELECT * FROM product WHERE status = '1'")
         else:
             self.cursor.execute("SELECT * FROM product")
-        return self.cursor.fetchall()
 
-    def fetch_product_data(self, product_id: int) -> List[sqlite3.Row]:
+        rows = self.cursor.fetchall()
+        products = []
+        for row in rows:
+            products.append(
+                Product(
+                    id=row[0],
+                    image_link=row[4],
+                    price=row[6],
+                    manufacturer_id=row[5],
+                )
+            )
+        return products
+
+    def fetch_product_data(self, product_id: int) -> Union[ProductData, None]:
         """Fetch product data from the database by product id."""
         self.cursor.execute(
             "SELECT * FROM product_description WHERE product_id = ?",
             (product_id,),
         )
-        return self.cursor.fetchone()
+        row = self.cursor.fetchone()
+        if not row:
+            return None
+        return ProductData(name=row[1], description=row[2])
 
-    def fetch_product_images(self, product_id: int) -> List[sqlite3.Row]:
+    def fetch_product_images(
+        self, product_id: int
+    ) -> Union[List[Image], List]:
         """Fetch product images from the database by product id."""
         self.cursor.execute(
             "SELECT * FROM product_image WHERE product_id = ? ORDER BY sort_order ASC",
             (product_id,),
         )
-        return self.cursor.fetchall()
+        rows = self.cursor.fetchall()
+        images = []
+        for row in rows:
+            images.append(Image(image_link=row[2]))
+        return images
 
-    def fetch_manufacturer(self, manufacturer_id: int) -> List[sqlite3.Row]:
+    def fetch_manufacturer(
+        self, manufacturer_id: int
+    ) -> Union[Manufacturer, None]:
         """Fetch manufacturer from the database by manufacturer id."""
         self.cursor.execute(
             "SELECT * FROM manufacturer WHERE manufacturer_id = ?",
             (manufacturer_id,),
         )
-        return self.cursor.fetchone()
+        row = self.cursor.fetchone()
+        if not row:
+            return None
+        return Manufacturer(name=row[1])
 
     def close(self) -> None:
         """Close the database connection."""
@@ -73,10 +125,10 @@ class XMLGenerator:
 
     def generate_product_feed(
         self,
-        product: sqlite3.Row,
-        product_data: sqlite3.Row,
-        product_images: sqlite3.Row,
-        manufacturer: sqlite3.Row,
+        product: Product,
+        product_data: ProductData,
+        product_images: Union[List[Image], List],
+        manufacturer: Manufacturer,
     ) -> None:
         """Generate product feed for a single product."""
 
@@ -84,15 +136,17 @@ class XMLGenerator:
         # according to the Google Merchant Center documentation
         product_element = ET.SubElement(self.channel, "item")
         # probably should've used dicts or dataclasses for this, but this already looks
-        ET.SubElement(product_element, "g:id").text = str(product[0])
-        ET.SubElement(product_element, "g:title").text = product_data[1]
-        ET.SubElement(product_element, "g:description").text = product_data[2]
+        ET.SubElement(product_element, "g:id").text = str(product.id)
+        ET.SubElement(product_element, "g:title").text = product_data.name
+        ET.SubElement(
+            product_element, "g:description"
+        ).text = product_data.description
         ET.SubElement(
             product_element, "g:link"
-        ).text = f"https://butopea.com/p/{product[0]}"
+        ).text = f"{BASE_URL}{product.id}"
         ET.SubElement(
             product_element, "g:image_link"
-        ).text = f"https://butopea.com/{product[4]}"
+        ).text = f"{BASE_URL}{product.image_link}"
 
         if product_images:
             # Google Merchant Center only accepts 10 images per product
@@ -101,12 +155,12 @@ class XMLGenerator:
             for img in product_images:
                 ET.SubElement(
                     product_element, "g:additional_image_link"
-                ).text = f"https://butopea.com/{img[2]}"
+                ).text = f"{BASE_URL}{img.image_link}"
 
         ET.SubElement(product_element, "g:availability").text = "in_stock"
-        price = round(float(product[6]))
+        price = round(float(product.price))
         ET.SubElement(product_element, "g:price").text = f"{price} HUF"
-        ET.SubElement(product_element, "g:brand").text = manufacturer[1]
+        ET.SubElement(product_element, "g:brand").text = manufacturer.name
         ET.SubElement(product_element, "g:condition").text = "new"
 
     def write_to_file(self) -> None:
@@ -129,10 +183,13 @@ class ProductFeedGenerator:
 
         # Add each product to the XML feed
         for product in products:
-            product_data = self.database.fetch_product_data(product[0])
-            product_images = self.database.fetch_product_images(product[0])
-            manufacturer = self.database.fetch_manufacturer(product[5])
-
+            product_data = self.database.fetch_product_data(product.id)
+            product_images = self.database.fetch_product_images(product.id)
+            manufacturer = self.database.fetch_manufacturer(
+                product.manufacturer_id
+            )
+            if not product_data or not manufacturer:
+                continue
             self.xml_generator.generate_product_feed(
                 product, product_data, product_images, manufacturer
             )
@@ -143,7 +200,7 @@ class ProductFeedGenerator:
 
 
 if __name__ == "__main__":
-    database = Db(db_path)
+    database = Db(DB_PATH)
     xml_generator = XMLGenerator()
     generator = ProductFeedGenerator(database, xml_generator)
     generator.generate_product_feed()
