@@ -159,7 +159,8 @@ class XMLGenerator:
                 ).text = parse.quote(f"{BASE_URL}/{img.image_link}")
 
         ET.SubElement(product_element, "g:availability").text = "in_stock"
-        price = round(float(product.price))
+        # ISO 4217 states that Hungarian Forint has 2 decimal places
+        price = round(float(product.price), 2)  # more explicit .2f
         ET.SubElement(product_element, "g:price").text = f"{price} HUF"
         ET.SubElement(product_element, "g:brand").text = manufacturer.name
         ET.SubElement(product_element, "g:condition").text = "new"
