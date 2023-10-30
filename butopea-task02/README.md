@@ -96,7 +96,7 @@ products.each((index, product) => {
 - `wrap()` is used to wrap an element, kind of focus on it, so that **Cypress** commands can be used on it.
   
 ---
-I can't really say anything more about this tests. Queries to the DOM are quite simply, rather by tag name, selector, id or class name.
+I can't really say anything more about this tests. Queries to the DOM are quite simple, rather by tag name, selector, id or class name.
 
 # Results
 ## CLI output:
