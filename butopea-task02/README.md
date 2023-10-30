@@ -44,7 +44,7 @@ I've added base url to `cypress.config.json` file:
 ```javascript
 baseUrl: "https://butopea.com"
 ```
-This way I can perform requests in a more consice way:
+This way I can perform requests in a more concise way:
 ```javascript
 cy.visit("/")   // navigates to https://butopea.com/
 ```
