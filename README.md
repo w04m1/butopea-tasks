@@ -3,7 +3,7 @@
 # Setup
 1. Clone the repository:
     ```shell
-    git clone http://
+    git clone http://https://github.com/w04m1/butopea-tasks.git
     ```
     or download the zip file and extract it.
 2. Navigate to the project folder: 
