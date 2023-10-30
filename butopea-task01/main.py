@@ -2,11 +2,12 @@ import os
 import sqlite3
 from typing import List, NamedTuple, Union
 import xml.etree.ElementTree as ET
+from urllib import parse
 
 DB_NAME = "data.sqlite"
 DB_PATH = os.path.join(os.path.dirname(__file__), DB_NAME)
 
-BASE_URL = "https://butopea.com/"
+BASE_URL = "https://butopea.com"
 
 
 # I do know about dataclasses and collections.namedtuple, but I've decided to
@@ -141,12 +142,12 @@ class XMLGenerator:
         ET.SubElement(
             product_element, "g:description"
         ).text = product_data.description
-        ET.SubElement(
-            product_element, "g:link"
-        ).text = f"{BASE_URL}{product.id}"
-        ET.SubElement(
-            product_element, "g:image_link"
-        ).text = f"{BASE_URL}{product.image_link}"
+        ET.SubElement(product_element, "g:link").text = parse.quote(
+            f"{BASE_URL}/p/{product.id}"
+        )
+        ET.SubElement(product_element, "g:image_link").text = parse.quote(
+            f"{BASE_URL}/{product.image_link}"
+        )
 
         if product_images:
             # Google Merchant Center only accepts 10 images per product
@@ -155,7 +156,7 @@ class XMLGenerator:
             for img in product_images:
                 ET.SubElement(
                     product_element, "g:additional_image_link"
-                ).text = f"{BASE_URL}{img.image_link}"
+                ).text = parse.quote(f"{BASE_URL}/{img.image_link}")
 
         ET.SubElement(product_element, "g:availability").text = "in_stock"
         price = round(float(product.price))
