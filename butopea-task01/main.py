@@ -8,7 +8,7 @@ db_path = os.path.join(os.path.dirname(__file__), db_name)
 
 
 # I was not sure if you'd rather want me to do single SQL query with JOINs
-# or use ORM, so I've decided to do the Python way :)
+# or use ORM, so I've decided to do it the Python way :)
 class Db:
     """Database class for fetching data from the provided db."""
 
@@ -112,7 +112,7 @@ class XMLGenerator:
     def write_to_file(self) -> None:
         """Write the generated XML to file."""
         tree = ET.ElementTree(self.root)
-        tree.write("feed.xml")
+        tree.write("feed.xml", encoding="utf-8", xml_declaration=True)
 
 
 class ProductFeedGenerator:
