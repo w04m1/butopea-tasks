@@ -167,3 +167,7 @@ DevTools listening on ws://127.0.0.1:59006/devtools/browser/64519116-0c5c-4dcc-9
 
 ### Piece of data extracted from product page:
 ![Product extracted data](../img/product-data.png)
+
+# Sources
+- [Cypress Docs](https://docs.cypress.io/)
+- [Cypress API](https://docs.cypress.io/api/api/table-of-contents.html)

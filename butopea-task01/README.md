@@ -42,3 +42,8 @@ The `ProductFeedGenerator` class coordinates the generation of the product feed.
 
 ## Main Execution
 The main execution block at the end of the code initializes the `Database`, `XMLGenerator`, and `ProductFeedGenerator` objects. It then calls the `generate_product_feed` method of the `ProductFeedGenerator` object to generate the product feed.
+
+
+# Sources
+- [Google Merchants: Product data specification](https://support.google.com/merchants/answer/7052112)
+- [RSS 2.0 Specification](https://support.google.com/merchants/answer/160589)
