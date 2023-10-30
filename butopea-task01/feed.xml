@@ -51,7 +51,7 @@ if (event.data == YT.PlayerState.ENDED) {
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/Puffok/osszehajthato-ulokes-tarolo-puff-paris-deho15358-paris-h38-00-cm-w37-50-cm-37-50-cm-2.jpg</g:additional_image_link>
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/Puffok/osszehajthato-ulokes-tarolo-puff-paris-deho15358-paris-h38-00-cm-w37-50-cm-37-50-cm-3.jpg</g:additional_image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>123648 HUF</g:price>
+      <g:price>123648.03 HUF</g:price>
       <g:brand>PARIS</g:brand>
       <g:condition>new</g:condition>
     </item>
@@ -65,7 +65,7 @@ if (event.data == YT.PlayerState.ENDED) {
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/Deli-dobozok/ekszerdoboz-havas-taj-mintaval-frozen-deli-260tel-ki-h8-00-cm-w15-50-cm-19-00-cm-1.jpg</g:additional_image_link>
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/Deli-dobozok/ekszerdoboz-havas-taj-mintaval-frozen-deli-260tel-ki-h8-00-cm-w15-50-cm-19-00-cm-2.jpg</g:additional_image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>33080 HUF</g:price>
+      <g:price>33079.82 HUF</g:price>
       <g:brand>FROZEN</g:brand>
       <g:condition>new</g:condition>
     </item>
@@ -79,7 +79,7 @@ if (event.data == YT.PlayerState.ENDED) {
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/Deli-dobozok/ekszerdoboz-pipacsos-mintaval-coquelicot-deli-59pip-k-h8-20-cm-w13-00-cm-13-00-cm-2.jpg</g:additional_image_link>
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/Deli-dobozok/ekszerdoboz-pipacsos-mintaval-coquelicot-deli-59pip-k-h8-20-cm-w13-00-cm-13-00-cm-3.jpg</g:additional_image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>22419 HUF</g:price>
+      <g:price>22418.78 HUF</g:price>
       <g:brand>COQUELICOT</g:brand>
       <g:condition>new</g:condition>
     </item>
@@ -94,7 +94,7 @@ if (event.data == YT.PlayerState.ENDED) {
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/Fa-deko/fali-kulcstarto-polccal-virag-mintaval-swiss-cottage-deht71034-polcv-h28-00-cm-w9-00-cm-40-00-cm-3.jpg</g:additional_image_link>
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/Fa-deko/fali-kulcstarto-polccal-virag-mintaval-swiss-cottage-deht71034-polcv-h28-00-cm-w9-00-cm-40-00-cm-4.jpg</g:additional_image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>213139 HUF</g:price>
+      <g:price>213138.61 HUF</g:price>
       <g:brand>SWISS COTTAGE</g:brand>
       <g:condition>new</g:condition>
     </item>
@@ -109,7 +109,7 @@ if (event.data == YT.PlayerState.ENDED) {
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/Fa-deko/vilagito-fali-dekoracio-home-felirattal-led-es-fjord-deht71405h-led-h30-00-cm-w3-50-cm-30-00-cm-3.jpg</g:additional_image_link>
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/Fa-deko/vilagito-fali-dekoracio-home-felirattal-led-es-fjord-deht71405h-led-h30-00-cm-w3-50-cm-30-00-cm-4.jpg</g:additional_image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>23966 HUF</g:price>
+      <g:price>23966.22 HUF</g:price>
       <g:brand>FJORD</g:brand>
       <g:condition>new</g:condition>
     </item>
@@ -123,7 +123,7 @@ if (event.data == YT.PlayerState.ENDED) {
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/Faliora/faliora-vintage-stilusu-60-cm-grand-palais-demi60-463paris-h3-00-cm-w60-00-cm-60-00-cm-2.jpg</g:additional_image_link>
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/Faliora/faliora-vintage-stilusu-60-cm-grand-palais-demi60-463paris-h3-00-cm-w60-00-cm-60-00-cm-3.jpg</g:additional_image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>266541 HUF</g:price>
+      <g:price>266541.3 HUF</g:price>
       <g:brand>GRAND PALAIS</g:brand>
       <g:condition>new</g:condition>
     </item>
@@ -138,7 +138,7 @@ if (event.data == YT.PlayerState.ENDED) {
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/DEZS/modern-muanyag-szovott-szek-puder-manille-dezs-433990roz-h79-00-cm-w60-00-cm-60-00-cm-3.jpg</g:additional_image_link>
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/DEZS/modern-muanyag-szovott-szek-puder-manille-dezs-433990roz-h79-00-cm-w60-00-cm-60-00-cm-4.jpg</g:additional_image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>42202 HUF</g:price>
+      <g:price>42201.96 HUF</g:price>
       <g:brand>MANILLE</g:brand>
       <g:condition>new</g:condition>
     </item>
@@ -150,7 +150,7 @@ if (event.data == YT.PlayerState.ENDED) {
       <g:image_link>https%3A//butopea.com/image/catalog/Product_pictures/%C3%89tkez%C5%91szettek/hintafotel-dino-dinodrago-sh-gw-dino-h48-00-cm-w31-00-cm-70-00-cm-main.jpg</g:image_link>
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/%C3%89tkez%C5%91szettek/hintafotel-dino-dinodrago-sh-gw-dino-h48-00-cm-w31-00-cm-70-00-cm-1.jpg</g:additional_image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>421417 HUF</g:price>
+      <g:price>421416.6 HUF</g:price>
       <g:brand>DINODRAGO</g:brand>
       <g:condition>new</g:condition>
     </item>
@@ -161,7 +161,7 @@ if (event.data == YT.PlayerState.ENDED) {
       <g:link>https%3A//butopea.com/p/4236</g:link>
       <g:image_link>https%3A//butopea.com/image/catalog/Product_pictures/%C3%89tkez%C5%91szettek/hintalo-sotetbarna-fier-etalon-sh-gd100h-br-h48-00-cm-w31-00-cm-60-00-cm-main.jpg</g:image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>480391 HUF</g:price>
+      <g:price>480391.06 HUF</g:price>
       <g:brand>FIER ETALON</g:brand>
       <g:condition>new</g:condition>
     </item>
@@ -173,7 +173,7 @@ if (event.data == YT.PlayerState.ENDED) {
       <g:image_link>https%3A//butopea.com/image/catalog/Product_pictures/DEJEL/DEJEL-TENA-V2-D_1.jpg</g:image_link>
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/DEJEL/DEJEL-OSLO-FAMILY-L.jpg</g:additional_image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>54848 HUF</g:price>
+      <g:price>54847.97 HUF</g:price>
       <g:brand>OSLO</g:brand>
       <g:condition>new</g:condition>
     </item>
@@ -186,7 +186,7 @@ if (event.data == YT.PlayerState.ENDED) {
       <g:additional_image_link>https%3A//butopea.com/image/catalog/butopea_mood_200326_05_V1_1200x1200.jpg</g:additional_image_link>
       <g:additional_image_link>https%3A//butopea.com/image/catalog/butopea_mood_200326_01_V1_1200x1200.jpg</g:additional_image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>68150 HUF</g:price>
+      <g:price>68149.75 HUF</g:price>
       <g:brand>OSLO</g:brand>
       <g:condition>new</g:condition>
     </item>
@@ -200,7 +200,7 @@ if (event.data == YT.PlayerState.ENDED) {
       <g:additional_image_link>https%3A//butopea.com/image/catalog/butopea_mood_200326_07_V1_1200x1200.jpg</g:additional_image_link>
       <g:additional_image_link>https%3A//butopea.com/image/catalog/butopea_mood_200326_01_V1_1200x1200.jpg</g:additional_image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>449099 HUF</g:price>
+      <g:price>449099.13 HUF</g:price>
       <g:brand>OSLO</g:brand>
       <g:condition>new</g:condition>
     </item>
@@ -212,7 +212,7 @@ if (event.data == YT.PlayerState.ENDED) {
       <g:image_link>https%3A//butopea.com/image/catalog/Product_pictures/DEJEL/DEJEL-TENA-TV-D_1.jpg</g:image_link>
       <g:additional_image_link>https%3A//butopea.com/image/catalog/butopea_mood_200326_07_V1_1200x1200.jpg</g:additional_image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>447055 HUF</g:price>
+      <g:price>447055.08 HUF</g:price>
       <g:brand>OSLO</g:brand>
       <g:condition>new</g:condition>
     </item>
@@ -225,7 +225,7 @@ if (event.data == YT.PlayerState.ENDED) {
       <g:additional_image_link>https%3A//butopea.com/image/catalog/butopea_mood_200326_04_V1_1200x1200.jpg</g:additional_image_link>
       <g:additional_image_link>https%3A//butopea.com/image/catalog/butopea_mood_200326_01_V1_1200x1200.jpg</g:additional_image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>638284 HUF</g:price>
+      <g:price>638283.64 HUF</g:price>
       <g:brand>OSLO</g:brand>
       <g:condition>new</g:condition>
     </item>
@@ -238,7 +238,7 @@ if (event.data == YT.PlayerState.ENDED) {
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/DEJEL/DEJEL-OSLO-FAMILY_S.jpg</g:additional_image_link>
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/DEJEL/DEJEL-TN-K31-D-Haromajtos-komod-fiokkal-es-polccal-feher---diofa-OSLO.jpg</g:additional_image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>135144 HUF</g:price>
+      <g:price>135143.93 HUF</g:price>
       <g:brand>OSLO</g:brand>
       <g:condition>new</g:condition>
     </item>
@@ -251,7 +251,7 @@ if (event.data == YT.PlayerState.ENDED) {
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/DEJEL/DEJEL-OSLO-FAMILY_S.jpg</g:additional_image_link>
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/DEJEL/DEJEL-TN-TV-D-TV-allvany-feher---diofa-OSLO.jpg</g:additional_image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>381810 HUF</g:price>
+      <g:price>381810.04 HUF</g:price>
       <g:brand>OSLO</g:brand>
       <g:condition>new</g:condition>
     </item>
@@ -262,7 +262,7 @@ if (event.data == YT.PlayerState.ENDED) {
       <g:link>https%3A//butopea.com/p/6048</g:link>
       <g:image_link>https%3A//butopea.com/image/catalog/DEJEL-LN-18W-D_1.jpg</g:image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>172349 HUF</g:price>
+      <g:price>172349.44 HUF</g:price>
       <g:brand>LED</g:brand>
       <g:condition>new</g:condition>
     </item>
@@ -274,7 +274,7 @@ if (event.data == YT.PlayerState.ENDED) {
       <g:image_link>https%3A//butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfb248%5Bd%5D_1.jpg</g:image_link>
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfb248%5Bd%5D_2.jpg</g:additional_image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>209389 HUF</g:price>
+      <g:price>209388.93 HUF</g:price>
       <g:brand>CASHMERE</g:brand>
       <g:condition>new</g:condition>
     </item>
@@ -286,7 +286,7 @@ if (event.data == YT.PlayerState.ENDED) {
       <g:image_link>https%3A//butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfb241%5Bd%5D_1.jpg</g:image_link>
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfb241%5Bd%5D_2.jpg</g:additional_image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>395570 HUF</g:price>
+      <g:price>395569.52 HUF</g:price>
       <g:brand>CASHMERE</g:brand>
       <g:condition>new</g:condition>
     </item>
@@ -299,7 +299,7 @@ if (event.data == YT.PlayerState.ENDED) {
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfb098%5Bd%5D_1.jpg</g:additional_image_link>
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfb098%5Bd%5D_2.jpg</g:additional_image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>26038 HUF</g:price>
+      <g:price>26038.06 HUF</g:price>
       <g:brand>TWIN PEAKS</g:brand>
       <g:condition>new</g:condition>
     </item>
@@ -311,7 +311,7 @@ if (event.data == YT.PlayerState.ENDED) {
       <g:image_link>https%3A//butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfb158%5Bd%5D_1.jpg</g:image_link>
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfb158%5Bd%5D_2.jpg</g:additional_image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>16105 HUF</g:price>
+      <g:price>16105.46 HUF</g:price>
       <g:brand>CONIFÈRE</g:brand>
       <g:condition>new</g:condition>
     </item>
@@ -323,7 +323,7 @@ if (event.data == YT.PlayerState.ENDED) {
       <g:image_link>https%3A//butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfb508%5Bd%5D_1.jpg</g:image_link>
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfb508%5Bd%5D_2.jpg</g:additional_image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>425744 HUF</g:price>
+      <g:price>425744.48 HUF</g:price>
       <g:brand>ROYAL</g:brand>
       <g:condition>new</g:condition>
     </item>
@@ -335,7 +335,7 @@ if (event.data == YT.PlayerState.ENDED) {
       <g:image_link>https%3A//butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfb228%5Bd%5D_1.jpg</g:image_link>
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfb228%5Bd%5D_2.jpg</g:additional_image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>578362 HUF</g:price>
+      <g:price>578362.37 HUF</g:price>
       <g:brand>PINEDE</g:brand>
       <g:condition>new</g:condition>
     </item>
@@ -347,7 +347,7 @@ if (event.data == YT.PlayerState.ENDED) {
       <g:image_link>https%3A//butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfa191%5Bd%5D_1.jpg</g:image_link>
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfa191%5Bd%5D_2.jpg</g:additional_image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>289613 HUF</g:price>
+      <g:price>289612.78 HUF</g:price>
       <g:brand>SAPIN DE CRIMEE</g:brand>
       <g:condition>new</g:condition>
     </item>
@@ -359,7 +359,7 @@ if (event.data == YT.PlayerState.ENDED) {
       <g:image_link>https%3A//butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfa194%5Bd%5D_1.jpg</g:image_link>
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfa194%5Bd%5D_2.jpg</g:additional_image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>8944 HUF</g:price>
+      <g:price>8944.07 HUF</g:price>
       <g:brand>SAPIN DE CRIMEE</g:brand>
       <g:condition>new</g:condition>
     </item>
@@ -371,7 +371,7 @@ if (event.data == YT.PlayerState.ENDED) {
       <g:image_link>https%3A//butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfb075%5Bd%5D_1.jpg</g:image_link>
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfb075%5Bd%5D_2.jpg</g:additional_image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>547630 HUF</g:price>
+      <g:price>547630.46 HUF</g:price>
       <g:brand>NOEL FEERIQUE</g:brand>
       <g:condition>new</g:condition>
     </item>
@@ -383,7 +383,7 @@ if (event.data == YT.PlayerState.ENDED) {
       <g:image_link>https%3A//butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfb078%5Bd%5D_1.jpg</g:image_link>
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfb078%5Bd%5D_2.jpg</g:additional_image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>179102 HUF</g:price>
+      <g:price>179101.57 HUF</g:price>
       <g:brand>NOEL FEERIQUE</g:brand>
       <g:condition>new</g:condition>
     </item>
@@ -395,7 +395,7 @@ if (event.data == YT.PlayerState.ENDED) {
       <g:image_link>https%3A//butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfb071%5Bd%5D_1.jpg</g:image_link>
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfb071%5Bd%5D_2.jpg</g:additional_image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>327644 HUF</g:price>
+      <g:price>327644.41 HUF</g:price>
       <g:brand>NOEL FEERIQUE</g:brand>
       <g:condition>new</g:condition>
     </item>
@@ -407,7 +407,7 @@ if (event.data == YT.PlayerState.ENDED) {
       <g:image_link>https%3A//butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfa305%5Bd%5D_1.jpg</g:image_link>
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfa305%5Bd%5D_2.jpg</g:additional_image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>192002 HUF</g:price>
+      <g:price>192001.55 HUF</g:price>
       <g:brand>NOEL JOYEUX</g:brand>
       <g:condition>new</g:condition>
     </item>
@@ -419,7 +419,7 @@ if (event.data == YT.PlayerState.ENDED) {
       <g:image_link>https%3A//butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfa308%5Bd%5D_1.jpg</g:image_link>
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfa308%5Bd%5D_2.jpg</g:additional_image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>12881 HUF</g:price>
+      <g:price>12880.54 HUF</g:price>
       <g:brand>NOEL JOYEUX</g:brand>
       <g:condition>new</g:condition>
     </item>
@@ -431,7 +431,7 @@ if (event.data == YT.PlayerState.ENDED) {
       <g:image_link>https%3A//butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfb215%5Bd%5D_1.jpg</g:image_link>
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfb215%5Bd%5D_2.jpg</g:additional_image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>202833 HUF</g:price>
+      <g:price>202833.27 HUF</g:price>
       <g:brand>NORWICH</g:brand>
       <g:condition>new</g:condition>
     </item>
@@ -443,7 +443,7 @@ if (event.data == YT.PlayerState.ENDED) {
       <g:image_link>https%3A//butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfb218%5Bd%5D_1.jpg</g:image_link>
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfb218%5Bd%5D_2.jpg</g:additional_image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>217959 HUF</g:price>
+      <g:price>217959.11 HUF</g:price>
       <g:brand>NORWICH</g:brand>
       <g:condition>new</g:condition>
     </item>
@@ -455,7 +455,7 @@ if (event.data == YT.PlayerState.ENDED) {
       <g:image_link>https%3A//butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfb068%5Bd%5D_1.jpg</g:image_link>
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/DEAQ/deaq-kfb068%5Bd%5D_2.jpg</g:additional_image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>278815 HUF</g:price>
+      <g:price>278814.63 HUF</g:price>
       <g:brand>PINS DE TIROL</g:brand>
       <g:condition>new</g:condition>
     </item>
@@ -467,7 +467,7 @@ if (event.data == YT.PlayerState.ENDED) {
       <g:image_link>https%3A//butopea.com/image/catalog/Product_pictures/DELP/delp-neo-06kek%5Bd%5D_1.jpg</g:image_link>
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/DELP/delp-neo-06kek%5Bd%5D_2.jpg</g:additional_image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>29320 HUF</g:price>
+      <g:price>29319.96 HUF</g:price>
       <g:brand>RONDO WIDE</g:brand>
       <g:condition>new</g:condition>
     </item>
@@ -481,7 +481,7 @@ if (event.data == YT.PlayerState.ENDED) {
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/DELP/delp-brollypi%5Bd%5D_3.jpg</g:additional_image_link>
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/DELP/delp-brollypi%5Bd%5D_4.jpg</g:additional_image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>19897 HUF</g:price>
+      <g:price>19896.73 HUF</g:price>
       <g:brand>HABILLÉE</g:brand>
       <g:condition>new</g:condition>
     </item>
@@ -492,7 +492,7 @@ if (event.data == YT.PlayerState.ENDED) {
       <g:link>https%3A//butopea.com/p/8759</g:link>
       <g:image_link>https%3A//butopea.com/image/catalog/Product_pictures/DELP/delp-brollysz%5Bd%5D_1.jpg</g:image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>242590 HUF</g:price>
+      <g:price>242590.3 HUF</g:price>
       <g:brand>HABILLÉE</g:brand>
       <g:condition>new</g:condition>
     </item>
@@ -504,7 +504,7 @@ if (event.data == YT.PlayerState.ENDED) {
       <g:image_link>https%3A//butopea.com/image/catalog/Product_pictures/DELP/delp-dove-midfeh%5Bd%5D_1.jpg</g:image_link>
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/DELP/delp-dove-midfeh%5Bd%5D_2.jpg</g:additional_image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>72331 HUF</g:price>
+      <g:price>72330.81 HUF</g:price>
       <g:brand>PIGEON</g:brand>
       <g:condition>new</g:condition>
     </item>
@@ -517,7 +517,7 @@ if (event.data == YT.PlayerState.ENDED) {
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/DELP/delp-twist-exlil%5Bd%5D_2.jpg</g:additional_image_link>
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/DELP/delp-twist-exlil%5Bd%5D_3.jpg</g:additional_image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>94657 HUF</g:price>
+      <g:price>94657.32 HUF</g:price>
       <g:brand>POSSIBILITÉ</g:brand>
       <g:condition>new</g:condition>
     </item>
@@ -529,7 +529,7 @@ if (event.data == YT.PlayerState.ENDED) {
       <g:image_link>https%3A//butopea.com/image/catalog/Product_pictures/DELP/delp-twist-exzol%5Bd%5D_1.jpg</g:image_link>
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/DELP/delp-twist-exzol%5Bd%5D_2.jpg</g:additional_image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>251256 HUF</g:price>
+      <g:price>251255.52 HUF</g:price>
       <g:brand>POSSIBILITÉ</g:brand>
       <g:condition>new</g:condition>
     </item>
@@ -540,7 +540,7 @@ if (event.data == YT.PlayerState.ENDED) {
       <g:link>https%3A//butopea.com/p/8926</g:link>
       <g:image_link>https%3A//butopea.com/image/catalog/Product_pictures/DEAE/deae-afb110f%5Bd%5D_1.jpg</g:image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>748344 HUF</g:price>
+      <g:price>748343.98 HUF</g:price>
       <g:brand>TANKISTE</g:brand>
       <g:condition>new</g:condition>
     </item>
@@ -551,7 +551,7 @@ if (event.data == YT.PlayerState.ENDED) {
       <g:link>https%3A//butopea.com/p/8927</g:link>
       <g:image_link>https%3A//butopea.com/image/catalog/Product_pictures/DEAE/deae-afb110s%5Bd%5D_1.jpg</g:image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>51831 HUF</g:price>
+      <g:price>51830.5 HUF</g:price>
       <g:brand>MARECHGAL</g:brand>
       <g:condition>new</g:condition>
     </item>
@@ -562,7 +562,7 @@ if (event.data == YT.PlayerState.ENDED) {
       <g:link>https%3A//butopea.com/p/8930</g:link>
       <g:image_link>https%3A//butopea.com/image/catalog/Product_pictures/DEAE/deae-afb112%5Bd%5D_1.jpg</g:image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>278720 HUF</g:price>
+      <g:price>278719.95 HUF</g:price>
       <g:brand>ASTRONOTE</g:brand>
       <g:condition>new</g:condition>
     </item>
@@ -573,7 +573,7 @@ if (event.data == YT.PlayerState.ENDED) {
       <g:link>https%3A//butopea.com/p/9010</g:link>
       <g:image_link>https%3A//butopea.com/image/catalog/Product_pictures/DEAE/deae-rovinj%5Bd%5D_1.jpg</g:image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>8602 HUF</g:price>
+      <g:price>8601.65 HUF</g:price>
       <g:brand>PONTON</g:brand>
       <g:condition>new</g:condition>
     </item>
@@ -584,7 +584,7 @@ if (event.data == YT.PlayerState.ENDED) {
       <g:link>https%3A//butopea.com/p/9019</g:link>
       <g:image_link>https%3A//butopea.com/image/catalog/Product_pictures/DEAE/deae-as101-bar%5Bd%5D_1.jpg</g:image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>233547 HUF</g:price>
+      <g:price>233547.36 HUF</g:price>
       <g:brand>MILAN</g:brand>
       <g:condition>new</g:condition>
     </item>
@@ -595,7 +595,7 @@ if (event.data == YT.PlayerState.ENDED) {
       <g:link>https%3A//butopea.com/p/9020</g:link>
       <g:image_link>https%3A//butopea.com/image/catalog/Product_pictures/DEAE/deae-as101-fek%5Bd%5D_1.jpg</g:image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>90070 HUF</g:price>
+      <g:price>90070.41 HUF</g:price>
       <g:brand>MILAN</g:brand>
       <g:condition>new</g:condition>
     </item>
@@ -606,7 +606,7 @@ if (event.data == YT.PlayerState.ENDED) {
       <g:link>https%3A//butopea.com/p/9021</g:link>
       <g:image_link>https%3A//butopea.com/image/catalog/Product_pictures/DEAE/deae-as101-bez%5Bd%5D_1.jpg</g:image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>395420 HUF</g:price>
+      <g:price>395419.55 HUF</g:price>
       <g:brand>MILAN</g:brand>
       <g:condition>new</g:condition>
     </item>
@@ -617,7 +617,7 @@ if (event.data == YT.PlayerState.ENDED) {
       <g:link>https%3A//butopea.com/p/9022</g:link>
       <g:image_link>https%3A//butopea.com/image/catalog/Product_pictures/DEAE/deae-as101-tau%5Bd%5D_1.jpg</g:image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>204457 HUF</g:price>
+      <g:price>204457.03 HUF</g:price>
       <g:brand>MILAN</g:brand>
       <g:condition>new</g:condition>
     </item>
@@ -628,7 +628,7 @@ if (event.data == YT.PlayerState.ENDED) {
       <g:link>https%3A//butopea.com/p/9028</g:link>
       <g:image_link>https%3A//butopea.com/image/catalog/Product_pictures/DEAE/deae-as102-bez%5Bd%5D_1.jpg</g:image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>46744 HUF</g:price>
+      <g:price>46743.9 HUF</g:price>
       <g:brand>BERGAME</g:brand>
       <g:condition>new</g:condition>
     </item>
@@ -640,7 +640,7 @@ if (event.data == YT.PlayerState.ENDED) {
       <g:image_link>https%3A//butopea.com/image/catalog/Product_pictures/DEAE/deae-as106%5Bd%5D_1.jpg</g:image_link>
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/DEAE/deae-as106%5Bd%5D_2.jpg</g:additional_image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>101332 HUF</g:price>
+      <g:price>101332.42 HUF</g:price>
       <g:brand>BERGAME</g:brand>
       <g:condition>new</g:condition>
     </item>
@@ -651,7 +651,7 @@ if (event.data == YT.PlayerState.ENDED) {
       <g:link>https%3A//butopea.com/p/9039</g:link>
       <g:image_link>https%3A//butopea.com/image/catalog/Product_pictures/DEAE/deae-as109-bez%5Bd%5D_1.jpg</g:image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>41844 HUF</g:price>
+      <g:price>41843.97 HUF</g:price>
       <g:brand>BARI</g:brand>
       <g:condition>new</g:condition>
     </item>
@@ -662,7 +662,7 @@ if (event.data == YT.PlayerState.ENDED) {
       <g:link>https%3A//butopea.com/p/9040</g:link>
       <g:image_link>https%3A//butopea.com/image/catalog/Product_pictures/DEAE/deae-as109-szu%5Bd%5D_1.jpg</g:image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>244040 HUF</g:price>
+      <g:price>244040.0 HUF</g:price>
       <g:brand>BARI</g:brand>
       <g:condition>new</g:condition>
     </item>
@@ -675,7 +675,7 @@ if (event.data == YT.PlayerState.ENDED) {
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/DEAE/deae-as110a-bez%5Bd%5D_2.jpg</g:additional_image_link>
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/DEAE/deae-as110a-bez%5Bd%5D_3.jpg</g:additional_image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>55663 HUF</g:price>
+      <g:price>55662.78 HUF</g:price>
       <g:brand>BARI</g:brand>
       <g:condition>new</g:condition>
     </item>
@@ -686,7 +686,7 @@ if (event.data == YT.PlayerState.ENDED) {
       <g:link>https%3A//butopea.com/p/9043</g:link>
       <g:image_link>https%3A//butopea.com/image/catalog/Product_pictures/DEAE/deae-ase101-bar%5Bd%5D_1.jpg</g:image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>129320 HUF</g:price>
+      <g:price>129320.39 HUF</g:price>
       <g:brand>MATERA</g:brand>
       <g:condition>new</g:condition>
     </item>
@@ -697,7 +697,7 @@ if (event.data == YT.PlayerState.ENDED) {
       <g:link>https%3A//butopea.com/p/9047</g:link>
       <g:image_link>https%3A//butopea.com/image/catalog/Product_pictures/DEAE/deae-ase104-bar%5Bd%5D_1.jpg</g:image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>424700 HUF</g:price>
+      <g:price>424699.68 HUF</g:price>
       <g:brand>BRINDISI</g:brand>
       <g:condition>new</g:condition>
     </item>
@@ -710,7 +710,7 @@ if (event.data == YT.PlayerState.ENDED) {
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/DEAE/deae-ase106%5Bd%5D_2.jpg</g:additional_image_link>
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/DEAE/deae-ase106%5Bd%5D_3.jpg</g:additional_image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>88344 HUF</g:price>
+      <g:price>88344.39 HUF</g:price>
       <g:brand>POMPEI</g:brand>
       <g:condition>new</g:condition>
     </item>
@@ -721,7 +721,7 @@ if (event.data == YT.PlayerState.ENDED) {
       <g:link>https%3A//butopea.com/p/9060</g:link>
       <g:image_link>https%3A//butopea.com/image/catalog/Product_pictures/DEAE/deae-ax102-szuv%5Bd%5D_1.jpg</g:image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>112127 HUF</g:price>
+      <g:price>112126.64 HUF</g:price>
       <g:brand>BRINDISI</g:brand>
       <g:condition>new</g:condition>
     </item>
@@ -738,7 +738,7 @@ if (event.data == YT.PlayerState.ENDED) {
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/DEHS/dehs-1728%5Bd%5D_5.jpg</g:additional_image_link>
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/DEHS/dehs-1728%5Bd%5D_6.jpg</g:additional_image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>46813 HUF</g:price>
+      <g:price>46813.26 HUF</g:price>
       <g:brand>NUIT CALME</g:brand>
       <g:condition>new</g:condition>
     </item>
@@ -752,7 +752,7 @@ if (event.data == YT.PlayerState.ENDED) {
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/DESY/desy-ca-12829%5Bd%5D_3.jpg</g:additional_image_link>
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/DESY/desy-ca-12829%5Bd%5D_4.jpg</g:additional_image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>20888 HUF</g:price>
+      <g:price>20888.34 HUF</g:price>
       <g:brand>TERRE ET LUNE</g:brand>
       <g:condition>new</g:condition>
     </item>
@@ -766,7 +766,7 @@ if (event.data == YT.PlayerState.ENDED) {
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/DESY/desy-gl-02061%5Bd%5D_3.jpg</g:additional_image_link>
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/DESY/desy-gl-02061%5Bd%5D_4.jpg</g:additional_image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>306265 HUF</g:price>
+      <g:price>306264.87 HUF</g:price>
       <g:brand>ESPACE</g:brand>
       <g:condition>new</g:condition>
     </item>
@@ -780,7 +780,7 @@ if (event.data == YT.PlayerState.ENDED) {
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/DESY/desy-gl-12539%5Bd%5D_3.jpg</g:additional_image_link>
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/DESY/desy-gl-12539%5Bd%5D_4.jpg</g:additional_image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>17800 HUF</g:price>
+      <g:price>17800.23 HUF</g:price>
       <g:brand>FACE CACHEE</g:brand>
       <g:condition>new</g:condition>
     </item>
@@ -794,7 +794,7 @@ if (event.data == YT.PlayerState.ENDED) {
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/DESY/desy-ob-13923%5Bd%5D_3.jpg</g:additional_image_link>
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/DESY/desy-ob-13923%5Bd%5D_4.jpg</g:additional_image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>190185 HUF</g:price>
+      <g:price>190185.2 HUF</g:price>
       <g:brand>PLEINE LUNE</g:brand>
       <g:condition>new</g:condition>
     </item>
@@ -808,7 +808,7 @@ if (event.data == YT.PlayerState.ENDED) {
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/DESY/desy-ob-13924%5Bd%5D_3.jpg</g:additional_image_link>
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/DESY/desy-ob-13924%5Bd%5D_4.jpg</g:additional_image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>1330 HUF</g:price>
+      <g:price>1329.51 HUF</g:price>
       <g:brand>ECLIPSE</g:brand>
       <g:condition>new</g:condition>
     </item>
@@ -822,7 +822,7 @@ if (event.data == YT.PlayerState.ENDED) {
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/DESY/desy-ob-02669%5Bd%5D_3.jpg</g:additional_image_link>
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/DESY/desy-ob-02669%5Bd%5D_4.jpg</g:additional_image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>424652 HUF</g:price>
+      <g:price>424651.91 HUF</g:price>
       <g:brand>CALEIDOSCOPE</g:brand>
       <g:condition>new</g:condition>
     </item>
@@ -836,7 +836,7 @@ if (event.data == YT.PlayerState.ENDED) {
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/DESY/desy-ca-11902%5Bd%5D_3.jpg</g:additional_image_link>
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/DESY/desy-ca-11902%5Bd%5D_4.jpg</g:additional_image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>186048 HUF</g:price>
+      <g:price>186048.33 HUF</g:price>
       <g:brand>PONTON</g:brand>
       <g:condition>new</g:condition>
     </item>
@@ -850,7 +850,7 @@ if (event.data == YT.PlayerState.ENDED) {
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/DESY/desy-ca-00825%5Bd%5D_3.jpeg</g:additional_image_link>
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/DESY/desy-ca-00825%5Bd%5D_4.jpg</g:additional_image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>325423 HUF</g:price>
+      <g:price>325422.63 HUF</g:price>
       <g:brand>ROUGE BAISER</g:brand>
       <g:condition>new</g:condition>
     </item>
@@ -865,7 +865,7 @@ if (event.data == YT.PlayerState.ENDED) {
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/DESY/desy-ca-01139%5Bd%5D_4.jpg</g:additional_image_link>
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/DESY/desy-ca-01139%5Bd%5D_5.jpg</g:additional_image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>62423 HUF</g:price>
+      <g:price>62422.89 HUF</g:price>
       <g:brand>STYLEE</g:brand>
       <g:condition>new</g:condition>
     </item>
@@ -879,7 +879,7 @@ if (event.data == YT.PlayerState.ENDED) {
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/DESY/desy-ob-13811%5Bd%5D_3.jpg</g:additional_image_link>
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/DESY/desy-ob-13811%5Bd%5D_4.jpg</g:additional_image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>821740 HUF</g:price>
+      <g:price>821739.81 HUF</g:price>
       <g:brand>Prairie</g:brand>
       <g:condition>new</g:condition>
     </item>
@@ -893,7 +893,7 @@ if (event.data == YT.PlayerState.ENDED) {
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/DESY/desy-ob-13812%5Bd%5D_3.jpg</g:additional_image_link>
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/DESY/desy-ob-13812%5Bd%5D_4.jpg</g:additional_image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>61440 HUF</g:price>
+      <g:price>61439.64 HUF</g:price>
       <g:brand>MER CALME</g:brand>
       <g:condition>new</g:condition>
     </item>
@@ -907,7 +907,7 @@ if (event.data == YT.PlayerState.ENDED) {
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/DESY/desy-gl-01821%5Bd%5D_3.jpg</g:additional_image_link>
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/DESY/desy-gl-01821%5Bd%5D_4.jpg</g:additional_image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>615267 HUF</g:price>
+      <g:price>615267.28 HUF</g:price>
       <g:brand>BLUE DREAM</g:brand>
       <g:condition>new</g:condition>
     </item>
@@ -921,7 +921,7 @@ if (event.data == YT.PlayerState.ENDED) {
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/DESY/desy-gl-01822%5Bd%5D_3.jpg</g:additional_image_link>
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/DESY/desy-gl-01822%5Bd%5D_4.jpg</g:additional_image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>8534 HUF</g:price>
+      <g:price>8534.3 HUF</g:price>
       <g:brand>NOCTURNE</g:brand>
       <g:condition>new</g:condition>
     </item>
@@ -935,7 +935,7 @@ if (event.data == YT.PlayerState.ENDED) {
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/DESY/desy-gl-01823%5Bd%5D_3.jpg</g:additional_image_link>
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/DESY/desy-gl-01823%5Bd%5D_4.jpg</g:additional_image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>62328 HUF</g:price>
+      <g:price>62328.01 HUF</g:price>
       <g:brand>PINK DREAM</g:brand>
       <g:condition>new</g:condition>
     </item>
@@ -949,7 +949,7 @@ if (event.data == YT.PlayerState.ENDED) {
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/DESY/desy-ob-02487%5Bd%5D_3.jpg</g:additional_image_link>
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/DESY/desy-ob-02487%5Bd%5D_4.jpg</g:additional_image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>6486 HUF</g:price>
+      <g:price>6486.3 HUF</g:price>
       <g:brand>COFFEE</g:brand>
       <g:condition>new</g:condition>
     </item>
@@ -963,7 +963,7 @@ if (event.data == YT.PlayerState.ENDED) {
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/DESY/desy-ob-13882%5Bd%5D_3.jpg</g:additional_image_link>
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/DESY/desy-ob-13882%5Bd%5D_4.jpg</g:additional_image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>29378 HUF</g:price>
+      <g:price>29378.23 HUF</g:price>
       <g:brand>STRATUS</g:brand>
       <g:condition>new</g:condition>
     </item>
@@ -977,7 +977,7 @@ if (event.data == YT.PlayerState.ENDED) {
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/DESY/desy-ob-13883%5Bd%5D_3.jpg</g:additional_image_link>
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/DESY/desy-ob-13883%5Bd%5D_4.jpg</g:additional_image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>115015 HUF</g:price>
+      <g:price>115015.41 HUF</g:price>
       <g:brand>STRATUS</g:brand>
       <g:condition>new</g:condition>
     </item>
@@ -992,7 +992,7 @@ if (event.data == YT.PlayerState.ENDED) {
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/DEJA/deja-166511%5Bd%5D_4.jpg</g:additional_image_link>
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/DEJA/deja-166511%5Bd%5D_5.jpg</g:additional_image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>82485 HUF</g:price>
+      <g:price>82485.34 HUF</g:price>
       <g:brand>QUIMPER</g:brand>
       <g:condition>new</g:condition>
     </item>
@@ -1006,7 +1006,7 @@ if (event.data == YT.PlayerState.ENDED) {
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/DEJA/deja-166757a%5Bd%5D_5.jpg</g:additional_image_link>
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/DEJA/deja-166757a%5Bd%5D_7.jpg</g:additional_image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>201606 HUF</g:price>
+      <g:price>201606.49 HUF</g:price>
       <g:brand>BRIDGE</g:brand>
       <g:condition>new</g:condition>
     </item>
@@ -1018,7 +1018,7 @@ if (event.data == YT.PlayerState.ENDED) {
       <g:image_link>https%3A//butopea.com/image/catalog/Product_pictures/DEJA/deja-166757d%5Bd%5D_1.jpg</g:image_link>
       <g:additional_image_link>https%3A//butopea.com/image/catalog/Product_pictures/DEJA/deja-166757d%5Bd%5D_2.jpg</g:additional_image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>243876 HUF</g:price>
+      <g:price>243876.4 HUF</g:price>
       <g:brand>BRIDGE</g:brand>
       <g:condition>new</g:condition>
     </item>
