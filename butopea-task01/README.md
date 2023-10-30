@@ -27,8 +27,8 @@ To run the code and generate the product feed, follow these steps:
 4. The product feed will be generated in the same directory as the code files and will be named `feed.xml`.
    
 # Code explanation
-## Database Class
-The `Database` class provides methods for interacting with the **SQLite** database. This class uses `sqlite3` module for SQL queries, which is not my personal preference but more than enough for provided task.
+## Db Class
+The `Db` class provides methods for interacting with the **SQLite** database. This class uses `sqlite3` module for SQL queries, which is not my personal preference but more than enough for provided task.
 
 It includes functions to fetch products, product data, product images, and manufacturer information.
 
@@ -38,10 +38,10 @@ The `XMLGenerator` class is responsible for generating the XML product feed. It 
 It takes product data, product images, and manufacturer information as input and creates the XML according to the specifications provided by **Google Merchants**.
 
 ## ProductFeedGenerator Class
-The `ProductFeedGenerator` class coordinates the generation of the product feed. It retrieves the necessary data from the database using the `Database` class and passes it to the `XMLGenerator` class to generate the XML feed for each product and then to save the generated XML to a file.
+The `ProductFeedGenerator` class coordinates the generation of the product feed. It retrieves the necessary data from the database using the `Db` class and passes it to the `XMLGenerator` class to generate the XML feed for each product and then to save the generated XML to a file.
 
 ## Main Execution
-The main execution block at the end of the code initializes the `Database`, `XMLGenerator`, and `ProductFeedGenerator` objects. It then calls the `generate_product_feed` method of the `ProductFeedGenerator` object to generate the product feed.
+The main execution block at the end of the code initializes the `Db`, `XMLGenerator`, and `ProductFeedGenerator` objects. It then calls the `generate_product_feed` method of the `ProductFeedGenerator` object to generate the product feed.
 
 
 # Sources
